@@ -17,7 +17,7 @@ if (global.db.groups[m.chat].banned) return
 }
 if (global.db.users[m.sender].banned) return m.reply(global.mess.ban)
 let archmenu = `┏━《 ${botname} 》━━━
-♞ Creator: ᴇᴅɴᴜᴛ
+♞ Creator: smallrobot
 ♞ Ping: ${latensi.toFixed(4)}
 ♞ Time: ${getTime().split("T")[1].split("+")[0]}
 ♞ Date: ${welDate}
