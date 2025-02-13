@@ -12,15 +12,15 @@ const { version } = require("./package.json")
 
 
 //======= Change settings =======\\
-global.owner = "2347036214381"
-global.botname = "αrch md"
-global.ownername = "" //set bot owner name here 
+global.owner = "2348145108641"
+global.botname = "SR"
+global.ownername = "smallrobot" //set bot owner name here 
 global.simbol = "♘"
 global.typeMenu = 'v2' // choose between 1,2,3
 global.prefix = '.' // your desired prefix symbol only
 global.channel = ''
 global.timezone = 'Africa/Lagos'
-global.author = 'Ednut'
+global.author = 'SR'
 global.packname = 'Arch Md ²⁵'
 
 global.tempatDB = 'database.json' // dont change might cause big errors 
